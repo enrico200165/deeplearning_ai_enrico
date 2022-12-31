@@ -1,0 +1,3 @@
+imagenet-vgg-verydeep-19.mat
+causava il fallimento del push perchè eccede limite di 100MB,
+rimosso
